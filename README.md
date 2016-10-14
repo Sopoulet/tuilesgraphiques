@@ -1,15 +1,15 @@
 ## tuiles graphiques ##
 =
-**Nom du projet : **
+**Nom du projet :**
 
 
-**Contexte : **
+**Contexte :**
 
 
-**Proposition : **
+**Proposition :**
 
 
-**Inspiration (liens) : **
+**Inspiration (liens) :**
 
 * lien 1 
 * lien 2
